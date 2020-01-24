@@ -1,10 +1,16 @@
 require("dotenv").config();
+var Spotify = require("node-spotify-api");
+var keys = require("./keys");
+var axios = require("axios");
+var moment = require("moment");
+var fs = require("fs")
 
-var keys = require("./keys.js");
+var command = process.argv[2];
 
-var spotify = new Spotify(keys.spotify);
-
-// Make it so liri.js can take in one of the following commands:
+if (process.argv.length > 3) {
+    var input = process.argv.slice(3).join(" ");
+    console.log(input);
+}
 
 // * `concert-this`
 // * `spotify-this-song`
