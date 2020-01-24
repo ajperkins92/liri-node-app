@@ -5,6 +5,12 @@ var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
 
+// Use the following commands:
+// - "concert-this" + [artist]
+// - "spotify-this-song" + [song]
+// - "movie-this" + [movie]
+// - "do-what-it-says" (reads random.txt file)
+
 // Initializing Spotify API client
 var spotify = new Spotify(keys.spotify);
 
