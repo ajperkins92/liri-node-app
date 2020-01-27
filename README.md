@@ -25,14 +25,14 @@ The CLI app takes 4 separate input commands:
 
 ### "concert-this"
 
-!["conert-this"](/Images/Concert-This.JPG)
+!["conert-this"](Images/Concert-This.JPG)
 
 ### "movie-this"
 
-!["movie-this"](Movie-This.JPG)
+!["movie-this"](Images/Movie-This.JPG)
 
 ### "do-what-it-says"
 
-!["random.txt"](random-txt-input.JPG)
+!["random.txt"](Images/random-txt-input.JPG)
 
-!["do-what-it-says"](Do-What-It-Says.JPG)
+!["do-what-it-says"](Images/Do-What-It-Says.JPG)
