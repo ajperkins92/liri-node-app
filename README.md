@@ -21,11 +21,11 @@ The CLI app takes 4 separate input commands:
 # Examples
 ### "spotify-this-song"
 
-!["spotify-this-song"](Spotify-This-Song.JPG)
+!["spotify-this-song"](Images/Spotify-This-Song.JPG)
 
 ### "concert-this"
 
-!["conert-this"](Concert-This.JPG)
+!["conert-this"](/Images/Concert-This.JPG)
 
 ### "movie-this"
 
