@@ -21,11 +21,18 @@ The CLI app takes 4 separate input commands:
 # Examples
 ### "spotify-this-song"
 
+!["spotify-this-song"](Spotify-This-Song.JPG)
 
 ### "concert-this"
 
+!["conert-this"](Concert-This.JPG)
 
 ### "movie-this"
 
+!["movie-this"](Movie-This.JPG)
 
 ### "do-what-it-says"
+
+!["random.txt"](random-txt-input.JPG)
+
+!["do-what-it-says"](Do-What-It-Says.JPG)
